@@ -1,0 +1,5 @@
+package com.llj.springcloud.configbean;
+
+public class ConfigBean {
+
+}

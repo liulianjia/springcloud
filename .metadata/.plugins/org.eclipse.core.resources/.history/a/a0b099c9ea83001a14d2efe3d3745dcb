@@ -1,0 +1,10 @@
+package com.llj.springcloud;
+
+
+public class HystrixDashbordConsumerApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(HystrixDashbordConsumerApplication.class, args);
+	}
+	
+}

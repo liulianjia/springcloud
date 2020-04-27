@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;microservice-consumer-config-clent&apos; to &apos;microservice-consumer-config-client&apos;" description="Rename resource &apos;microservice-consumer-config-clent&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/microservice-consumer-config-clent" name="microservice-consumer-config-client" stamp="1588002645638" updateReferences="true"/>
+</session>

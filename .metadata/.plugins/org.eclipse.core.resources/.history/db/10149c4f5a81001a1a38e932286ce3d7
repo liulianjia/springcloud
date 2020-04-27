@@ -1,0 +1,5 @@
+package com.llj.springcloud.entity;
+
+public class User {
+
+}

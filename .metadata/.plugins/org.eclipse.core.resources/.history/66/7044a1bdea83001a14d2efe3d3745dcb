@@ -1,0 +1,5 @@
+package com.llj.springcloud;
+
+public class HystrixDashbordConsumerApplication {
+
+}

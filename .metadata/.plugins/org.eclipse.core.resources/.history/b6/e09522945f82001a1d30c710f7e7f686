@@ -1,0 +1,12 @@
+eureka:
+  instance:
+    hostname: ${spring.cloud.client.ipAddress}
+  client:
+    register-with-eureka: false
+    fetch-registry: false
+    service-url:
+      #defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
+      defaultZone: http://eureka9010.com:9010/eureka/,http://eureka9020.com:9020/eureka/
+      
+server:
+  port: 9030

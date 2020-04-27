@@ -1,0 +1,7 @@
+package com.llj.springcloud.service;
+
+import feign.hystrix.FallbackFactory;
+
+public class ConsumerServiceFallbackFactory implements FallbackFactory<T> {
+
+}

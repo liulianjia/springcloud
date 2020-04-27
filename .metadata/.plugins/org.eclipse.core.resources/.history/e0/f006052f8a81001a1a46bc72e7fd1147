@@ -1,0 +1,5 @@
+package com.llj.springcloud.controller;
+
+public class UserConsumerController {
+
+}

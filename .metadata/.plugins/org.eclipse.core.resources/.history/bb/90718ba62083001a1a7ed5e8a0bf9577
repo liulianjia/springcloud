@@ -1,0 +1,5 @@
+package com.llj.springcloud.service;
+
+public class ConsumerService {
+
+}
